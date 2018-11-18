@@ -1,7 +1,7 @@
 token= NDg1MDgyNTEwNjYyMDQxNjIw.DsNYYQ.wUzQeUkK74lm_GcYk2oGXyoZ9bs
 owner= 478954803657965569 
 prefix= 1
-game= Type 1help
+game= .Rocky Server ✯
 stayinchannel=true 
 songinstatus=false 
 
