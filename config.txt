@@ -1,5 +1,5 @@
 token= NDg1MDgyNTEwNjYyMDQxNjIw.DsNYYQ.wUzQeUkK74lm_GcYk2oGXyoZ9bs
-owner= 478954803657965569 
+owner= 514114378384015372 
 prefix= 1
 game= .Rocky Server ✯
 stayinchannel=true 
