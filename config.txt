@@ -1,4 +1,4 @@
-token= NDg1MDgyNTEwNjYyMDQxNjIw.DsNYYQ.wUzQeUkK74lm_GcYk2oGXyoZ9bs
+token= 
 owner= 351262573120716800 
 prefix= 1
 game= . Server ✯
