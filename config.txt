@@ -1,7 +1,7 @@
-token= 
+token= NTE3MTI3NDkwMDEyMDUzNTA5.DuLy1A.fg2QInm31Log0lpxESY2E08p4dc
 owner= 351262573120716800 
 prefix= 1
-game= . Server ✯
+game= .Roky Server ✯
 stayinchannel=true 
 songinstatus=false 
 
