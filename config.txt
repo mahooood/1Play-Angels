@@ -1,6 +1,6 @@
-token= NTE3MTI3NDkwMDEyMDUzNTA5.DuLy1A.fg2QInm31Log0lpxESY2E08p4dc
+token= NDk5OTY1MTI2Nzk2MTE1OTY4.DvfHAA.gFFt9jwxbtqUeHg3X1pyqWjC9w4
 owner= 351262573120716800 
-prefix= 1
+prefix= M
 stayinchannel=true 
 songinstatus=false 
 
